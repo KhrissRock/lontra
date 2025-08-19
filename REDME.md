@@ -2,6 +2,10 @@
 
 Bem-vindo ao projeto Lontra. Este repositório contém uma aplicação Java baseada em Spring Boot, utilizando Jakarta EE (imports jakarta), Spring MVC, Spring Data JPA, Hibernate, Lombok e banco de dados em memória H2. A documentação de API é exposta via springdoc-openapi. O projeto oferece um ambiente de execução com Docker e Docker Compose.
 
+![figura 1.png](assets/figura%201.png)
+![figura 2.png](assets/figura%202.png)
+
+
 ## Tecnologias e Documentação
 
 - [![Java 17](https://img.shields.io/badge/Java-17-007396?logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/17/)
